@@ -23,14 +23,3 @@ SRE NEXT Official Character Shinrai Keropen
 - CMYK: M30 Y65
 - RGB: #f8c164 / R248 G193 B100
 
-## Available images
-
-Available images are listed below:
-
-|             |             |             |
-| ----------- | ----------- | ----------- |
-| ![monochrome](png/monochrome.png)<br>monochrome.png | ![monotone](png/monotone.png)<br>monotone.png | ![pose-1](png/pose-1.png)<br>pose-1.png |
-| ![pose-2](png/pose-2.png)<br>pose-2.png | ![pose-3](png/pose-3.png)<br>pose-3.png | ![pose-4](png/pose-4.png)<br>pose-4.png |
-| ![pose-5](png/pose-5.png)<br>pose-5.png | ![pose-6](png/pose-6.png)<br>pose-6.png | ![pose-7](png/pose-7.png)<br>pose-7.png |
-| ![pose-8](png/pose-8.png)<br>pose-8.png | ![pose-9](png/pose-9.png)<br>pose-9.png | ![pose-10](png/pose-10.png)<br>pose-10.png |
-| ![pose-11](png/pose-11.png)<br>pose-11.png | ![pose-12](png/pose-12.png)<br>pose-12.png | ![standard](png/standard.png)<br>standard.png |
