@@ -8,17 +8,11 @@
 ## monotone.svg
 ![monotone.svg](svg/monotone.svg)
 
+## standard.svg
+![standard.svg](svg/standard.svg)
+
 ## pose-1.svg
 ![pose-1.svg](svg/pose-1.svg)
-
-## pose-10.svg
-![pose-10.svg](svg/pose-10.svg)
-
-## pose-11.svg
-![pose-11.svg](svg/pose-11.svg)
-
-## pose-12.svg
-![pose-12.svg](svg/pose-12.svg)
 
 ## pose-2.svg
 ![pose-2.svg](svg/pose-2.svg)
@@ -44,6 +38,12 @@
 ## pose-9.svg
 ![pose-9.svg](svg/pose-9.svg)
 
-## standard.svg
-![standard.svg](svg/standard.svg)
+## pose-10.svg
+![pose-10.svg](svg/pose-10.svg)
+
+## pose-11.svg
+![pose-11.svg](svg/pose-11.svg)
+
+## pose-12.svg
+![pose-12.svg](svg/pose-12.svg)
 

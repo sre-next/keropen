@@ -29,13 +29,11 @@ header = <<~HEADER
 
 HEADER
 
-# 出力先ファイルを開く（上書きモード）
 File.open(output_file, 'w') do |file|
   file.puts(header)
 
-  # ディレクトリ内のPNGファイルを、ファイル名の数字部分を基準にソート
-  sorted_files = Dir.glob(File.join(input_dir, '*.png')).sort_by do |file|
-    # ファイル名から数字を抽出（例: pose-1.png から 1 を抽出）
+  # 画像ファイルを取得し、名前でソート
+  sorted_files = Dir.glob(File.join(input_dir, '*{.png,*.svg}')).sort_by do |file|
     file.match(/(\d+)/) ? $1.to_i : 0
   end
 
