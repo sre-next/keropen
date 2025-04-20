@@ -40,7 +40,7 @@ File.open(output_file, 'w') do |file|
   sorted_files.each do |image_path|
     image_name = File.basename(image_path)
     file.puts("## #{image_name}")
-    file.puts("![#{image_name}](#{File.join(input_dir, image_name)})")
+    file.puts("![#{image_name}](#{File.join("./", image_name)})")
     file.puts
   end
 end
