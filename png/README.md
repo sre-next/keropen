@@ -47,3 +47,60 @@
 ## pose-12.png
 ![pose-12.png](./pose-12.png)
 
+## book.png
+![book.png](./book.png)
+
+## book_notext.png
+![book_notext.png](./book_notext.png)
+
+## happy.png
+![happy.png](./happy.png)
+
+## ninomiya.png
+![ninomiya.png](./ninomiya.png)
+
+## rain.png
+![rain.png](./rain.png)
+
+## rainbow_suberidai.png
+![rainbow_suberidai.png](./rainbow_suberidai.png)
+
+## reading.png
+![reading.png](./reading.png)
+
+## shabondama.png
+![shabondama.png](./shabondama.png)
+
+## umbrella.png
+![umbrella.png](./umbrella.png)
+
+## sre_keropen_doyaru.png
+![sre_keropen_doyaru.png](./sre_keropen_doyaru.png)
+
+## sre_keropen_miru.png
+![sre_keropen_miru.png](./sre_keropen_miru.png)
+
+## sre_keropen_relax.png
+![sre_keropen_relax.png](./sre_keropen_relax.png)
+
+## sre_keropen_suika.png
+![sre_keropen_suika.png](./sre_keropen_suika.png)
+
+## sre_keropen_surfin.png
+![sre_keropen_surfin.png](./sre_keropen_surfin.png)
+
+## sre_keropen_surfin2.png
+![sre_keropen_surfin2.png](./sre_keropen_surfin2.png)
+
+## sre_keropen_swim.png
+![sre_keropen_swim.png](./sre_keropen_swim.png)
+
+## sre_keropen_ukiwa2.png
+![sre_keropen_ukiwa2.png](./sre_keropen_ukiwa2.png)
+
+## sre_keropen_ukiwa3.png
+![sre_keropen_ukiwa3.png](./sre_keropen_ukiwa3.png)
+
+## sre_keropen_ukiwa_pool.png
+![sre_keropen_ukiwa_pool.png](./sre_keropen_ukiwa_pool.png)
+
