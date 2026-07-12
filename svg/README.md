@@ -47,3 +47,54 @@
 ## pose-12.svg
 ![pose-12.svg](./pose-12.svg)
 
+## book.svg
+![book.svg](./book.svg)
+
+## book_notext.svg
+![book_notext.svg](./book_notext.svg)
+
+## happy.svg
+![happy.svg](./happy.svg)
+
+## ninomiya.svg
+![ninomiya.svg](./ninomiya.svg)
+
+## rain.svg
+![rain.svg](./rain.svg)
+
+## rainbow_suberidai.svg
+![rainbow_suberidai.svg](./rainbow_suberidai.svg)
+
+## reading.svg
+![reading.svg](./reading.svg)
+
+## shabondama.svg
+![shabondama.svg](./shabondama.svg)
+
+## umbrella.svg
+![umbrella.svg](./umbrella.svg)
+
+## keropen_snaba.svg
+![keropen_snaba.svg](./keropen_snaba.svg)
+
+## keropen_surfin_1.svg
+![keropen_surfin_1.svg](./keropen_surfin_1.svg)
+
+## keropen_surfine_2.svg
+![keropen_surfine_2.svg](./keropen_surfine_2.svg)
+
+## keropen_ukiwa_1.svg
+![keropen_ukiwa_1.svg](./keropen_ukiwa_1.svg)
+
+## keropen_ukiwa_2.svg
+![keropen_ukiwa_2.svg](./keropen_ukiwa_2.svg)
+
+## keropen_ukiwa_3.svg
+![keropen_ukiwa_3.svg](./keropen_ukiwa_3.svg)
+
+## keropen_watch.svg
+![keropen_watch.svg](./keropen_watch.svg)
+
+## keropen_watermelon.svg
+![keropen_watermelon.svg](./keropen_watermelon.svg)
+
