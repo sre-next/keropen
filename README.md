@@ -27,7 +27,7 @@ SRE NEXT Official Character Shinrai Keropen
 
 "信頼けろぺん" (Shinrai Keropen) © 2024 SRE NEXT Assoc.
 
-けろぺんの画像（`svg/`・`png/`・`emoji/`）は [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) ライセンスにより公開しています。全文は [LICENSE](./LICENSE) を参照してください。
+けろぺんの画像（`svg/`・`png/`・`emoji/`）は [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) ライセンスにより公開しています。全文は [LICENSE.txt](./LICENSE.txt) を参照してください。
 
 利用にあたっては著作者表示（クレジット）が必要です。表記例:
 
